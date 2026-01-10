@@ -8,4 +8,4 @@ conta1 = Conta([cliente1, cliente2], 100, 0)
 
 conta1.depositar(500)
 conta1.sacar(150)
-conta1.extrato.mostrar_extrato(conta1.numero)
+conta1._Conta__extrato.mostrar_extrato(conta1._Conta__numero)
